@@ -1,0 +1,54 @@
+/* body { */
+  /* font-family: "Avenir Next"; */
+/* } */
+
+
+/*----header----*/
+.header{
+    background-color: #426AB3;
+    color: white;
+    width: 100%;
+    height: 210px;
+}
+.pageTitle{
+    font-size: 50px;
+    padding: 40px;
+    /* padding-top: 40px; */
+    padding-bottom: 20px;
+}
+.subTitle{
+    font-size: 30px;
+    padding: 0px 40px;
+}
+
+/*----main----*/
+.main{
+    font-size: 20px;
+    padding: 40px;
+}
+
+/*----footer----*/
+.footer{
+    
+    background-color: #426AB3;
+    color: white;
+    width: 100%;
+    height: 150px;
+}
+.contactList{
+    float: right;
+}
+.contactList p{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 0px;
+}
+.contactList ul{
+    padding-right: 40px;
+    padding-top: 0px;
+}
+
+a{
+    color: skyblue;
+}
