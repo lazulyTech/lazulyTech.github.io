@@ -1,10 +1,11 @@
-/* body { */
-  /* font-family: "Avenir Next"; */
-/* } */
+ body {
+  font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "sans-serif";
+ }
 
 
 /*----header----*/
 .header{
+    font-family: "Menlo";
     background-color: #426AB3;
     color: white;
     width: 100%;
