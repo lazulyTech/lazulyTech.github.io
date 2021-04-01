@@ -33,12 +33,11 @@ body {
 .urlMain{
 	color: #325086;
 }
-.gradBorder{
-	border-bottom: 4px solid #325086;
-	border-image: linear-gradient(to right, #325086 50%, white);
-	border-image: -moz-linear-gradient(to right, #325086 50%, white);
-	border-image: -webkit-linear-gradient(to right, #325086 50%, white);
-	border-image-slice: 1;
+.gradBorder::after{
+	content: "";
+	display: block;
+	height: 4px;
+	background: linear-gradient(to right, #325086 50%, white);
 }
 h2{
 	width: 75%;
