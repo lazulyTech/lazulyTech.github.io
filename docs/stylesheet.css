@@ -67,7 +67,7 @@ h2{
 	padding-top: 0px;
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:499px) {
 	.pageTitle{
 		font-size: 40px;
 		padding: 30px 5% 0px 5%;
