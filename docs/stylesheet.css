@@ -36,6 +36,8 @@ body {
 .gradBorder{
 	border-bottom: 4px solid #325086;
 	border-image: linear-gradient(to right, #325086 50%, white);
+	border-image: -moz-linear-gradient(to right, #325086 50%, white);
+	border-image: -webkit-linear-gradient(to right, #325086 50%, white);
 	border-image-slice: 1;
 }
 h2{
