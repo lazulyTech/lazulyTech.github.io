@@ -35,7 +35,7 @@ body {
 	content: "";
 	display: block;
 	height: 4px;
-	background: linear-gradient(to right, #325086 50%, white);
+	background: linear-gradient(to right,#3c95a2 5%,#5d7fbe 25%,white);
 }
 h2{
 	width: 75%;
