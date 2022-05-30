@@ -3,9 +3,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<meta name="discription" content="ロボット好き電通大生のページ">
+		<meta name="discription" content="ロボット好き電通大生のポートフォリオサイト．">
 		<title>Lazuly's Page</title>
-		<script src="script.js"></script>
+		<script src="jquery-3.6.0.min.js"></script>
 		<link rel="stylesheet" href="stylesheet.css">
 	</head>
 	<body>
@@ -13,9 +13,15 @@
 		<!--header-->
 		<div class="header">
 			<div class="pageTitle"><b>Lazuly's Page</b></div>
-			<div class="subTitle">暗記できなさすぎて落単しそう
-				<script>
-					lastModifiedDay();
+			<div class="subTitle">現在ロボコンを企画中
+				<script type="text/javascript">
+					<!--
+					var day = new Date(document.lastModified);
+					var y = day.getFullYear();
+					var m = day.getMonth() + 1;
+					var d = day.getDate();
+					document.write("(最終更新 " + y + "/" + m + "/" + d + ")");
+					// -->
 				</script>
 			</div>
 		</div>
@@ -23,20 +29,19 @@
 		<!--main-->
 		<div class="main">
 			<h1 class="gradBorder">About Me</h1>
-				<p>とにかくロボットを作るのが好きな学生です．授業でJavaScriptもやったので模様替えしようかなと思ってます．</p>
+				<p>とにかくロボットを作るのが好きな学生です．</p>
 				
 				<h2>現在の所属</h2>
-				<p>現在は電気通信大学 学域1年生です．<br>
-				MMAで競技プログラミングをしたり，ロボメカ工房のNHK部隊でロボット作っています．<br>
-				<a class="urlMain" href="https://wiki.mma.club.uec.ac.jp/Home" target="_blank" rel="noopener">電気通信大学 MMA</a>&emsp;
+				<p>現在は電気通信大学 学域2年生 II類Mエリアです．<br>
+				ロボメカ工房 NHK部隊で基板設計をしていました．2023シーズンは機構班長の予定．<br>
 				<a class="urlMain" href="https://sites.google.com/view/uec-rmf/home/butai/nhk-team?authuser=0" target="_blank" rel="noopener">電気通信大学ロボメカ工房 NHK部隊</a>
 				</p>
 				<h2>学歴</h2>
 					<ul>
-						<li>2018.03 川崎市立中学校&emsp;卒業</li>
+						<li>2018.03 某市立中学校&emsp;卒業</li>
 						<li>2021.03 <a class="urlMain" href="https://www.g.hst.titech.ac.jp" target="_blank" rel="noopener">東京工業大学附属科学技術高等学校</a> 
 							科学・技術科 システムデザイン・ロボット分野 (現・機械システム分野)&emsp;卒業</li>
-						<li>2021.04 <a class="urlMain" href="https://www.uec.ac.jp" target="_blank" rel="noopener">電気通信大学</a> 情報理工学域 Ⅱ類&emsp;入学(総合型選抜)</li>
+						<li>2021.04 <a class="urlMain" href="https://www.uec.ac.jp" target="_blank" rel="noopener">電気通信大学</a> 情報理工学域 II類&emsp;入学</li>
 					</ul>
 				<h2>ロボコン歴</h2>
 				<p>高校在学中はマイコン制御部での活動でロボコンに参加していました．FIRST Roboticsは校外チームでの参加です．</p>
@@ -62,7 +67,13 @@
 						<li>FIRST Robotics Competition
 							<ul>
 								<li>2019-2020 INFINITE RECHARGE
-									<br>&emsp;Team:<a class="urlMain" href="https://sakura-tempesta.org/" target="_blank" rel="noopener">6909 SAKURA Tempesta</a>　Regional Chairman's Award</li>
+									<br>&emsp;Team:<a class="urlMain" href="https://sakura-tempesta.org/" target="_blank" rel="noopener">6909 SAKURA Tempesta</a></li>
+							</ul>
+						</li>
+						<li>ABUロボコン・NHK学生ロボコン
+							<ul>
+								<li>2022 Lagori
+									<br>&emsp;ロボメカ工房NHK部隊　2次ビデオ審査落選</li>
 							</ul>
 						</li>
 					</ul>
@@ -72,15 +83,13 @@
 							<p>Neovimをカスタマイズしてます．プラグインはdeinで管理，補完はcoc.nvimを中心に組んでいます．<br>
 							zshなどの設定も含めたdotfilesはGitHubにて公開しています．
 							リポジトリはこちら．<br>
-							<a href="https://github.com/lazulyTech/dotfiles" target="_blank" rel="noopener">
-								<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazulyTech&repo=dotfiles&show_owner=true">
-							</a>
+							<a href="https://github.com/lazulyTech/dotfiles" target="_blank" rel="noopener"><img src="https://gh-card.dev/repos/lazulyTech/dotfiles.svg?fullname="></a>
 							</p>
 						<li>ゲーム</li>
 							<p>ファイアーエムブレムシリーズやスマブラ，音ゲーが好きです．<br>
-							ファイアーエムブレムは覚醒プレイ済み，現在はifと風花雪月をプレイ中です．ハードって，ハードですね．
-							その影響もありスマブラではベレス先生・カム子を，どうしようもない時にはミェンミェンを使っています．後ろ投げ横スマしか勝たん．<br>
-							音ゲーはナナシスなど．QWOPみたいなバカゲーも好きです．
+							ファイアーエムブレムは覚醒とifをプレイ済み，現在は風花雪月をプレイ中です．
+							その影響もありスマブラではカムイをメインで使っています．Lyさんが好き．<br>
+							QWOP, Getting Over It, 人生オワタの大冒険2みたいなバカゲーも好きです．
 							</p>
 					</ul>
 				
@@ -95,7 +104,8 @@
 					<p>最近，Unityでのゲーム作成に挑戦しています．ロックマンや人生オワタの大冒険のような，スクロール2Dゲームから始めています．
 					</p>
 				<h2>3D CAD</h2>
-				<p>Fusion 360で，高校の課題研究で製作したロボットや，SAKURA Tempestaのロボットの一部などを設計していました．
+				<p>Fusion 360で，高校の課題研究で製作したロボットや，現在のバイトでのちょこまかしたものの製作に使いました．<br>
+					ロボメカ工房ではInventorを使用しています．
 				</p>
 			
 		</div>
