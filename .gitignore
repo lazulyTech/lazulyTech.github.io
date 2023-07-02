@@ -1,0 +1,6 @@
+.bundle/
+.idea
+*.iml
+.ruby-version
+vendor/
+_site/
