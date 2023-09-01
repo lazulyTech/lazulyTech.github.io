@@ -21,10 +21,14 @@
 
 (後日ブログにまとめる予定です)
 
+<!-- # Hobbies -->
+
+<!-- [趣味を語る。](./hobbies.html) -->
+
 # Contact
 
 |サービス|アカウント|備考|
 |:---|:---|:---|
-|Twitter|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています|
+|X(Twitter)|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています|
 |はてなブログ|[LINK](https://lazuly.hatenablog.com)|気まぐれに書きます|
 |Facebook|[LINK](https://www.facebook.com/profile.php?id=100028977140855)|これからほどほどに使いたい|
