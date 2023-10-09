@@ -17,9 +17,11 @@
 
 ## FIRST Robotics Competition
 - [6909 SAKURA Tempesta](https://sakura-tempesta.org/)
-    - 2019-2020 \"INFINITE RECHARGE\" (コロナにより大会中止) メンバー(ハード、クラウドファンディング)
+    - 2019-2020 \"INFINITE RECHARGE\" (コロナにより大会中止)
+        メンバー (ハード、クラウドファンディング)
 - [8615 SAZANKA Robotics](https://sazankarobotics.com/)
-    - 2020-2022 \"INFINITE RECHARGE\"~\"RAPID REACT\" 技術メンター
+    - 2020-2021 \"INFINITE RECHARGE\" 技術メンター
+    - 2021-2022 \"RAPID REACT\" 技術メンター
 - 現在は発足1年目からメンターをしていたSAZANKA Roboticsを方向性の違いにより離れ、無所属です。
 
 ## NHK学生ロボコン
