@@ -17,9 +17,9 @@
 
 ## FIRST Robotics Competition
 - [6909 SAKURA Tempesta](https://sakura-tempesta.org/)
-    - 2019-2020 \"INFINITE RECHARGE\" (コロナにより大会中止)
+    - 2019-2020 \"INFINITE RECHARGE\" (コロナにより大会中止) メンバー(ハード、クラウドファンディング)
 - [8615 SAZANKA Robotics](https://sazankarobotics.com/)
-    - 2020-2022 メンター
+    - 2020-2022 \"INFINITE RECHARGE\"~\"RAPID REACT\" 技術メンター
 - 現在は発足1年目からメンターをしていたSAZANKA Roboticsを方向性の違いにより離れ、無所属です。
 
 ## NHK学生ロボコン
@@ -27,5 +27,5 @@
     - 2021 F3RC2021 1回戦敗退 (ロボット設計)
     - 2022 第2次ビデオ審査不合格 (モータドライバ基板設計)
     - 2023 出場・予選リーグ敗退・トヨタ自動車株式会社賞 (ロボット設計・チームリーダー)
-    - 2024 ロボット設計はせず、裏方としてチームを支えていく予定です
+    - 2024 ロボット設計はせず、1年生の育成や学ロボ機体のアドバイスをしながら、広報・渉外としてチームを支えます。
 
