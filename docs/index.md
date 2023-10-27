@@ -2,7 +2,7 @@
 
 とにかくロボコンが好きな学生です。
 
-現在は[電通大ロボメカ工房](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)にて学生代表としての仕事や、[NHKロボコン部隊](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)でNHK学生ロボコンに向けての活動をしています。
+現在は[電通大ロボメカ工房](https://sites.google.com/view/uec-rmf/home)にて学生代表としての仕事や、[NHKロボコン部隊](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)でNHK学生ロボコンに向けての活動の手伝いをしています。
 
 # Career
 
