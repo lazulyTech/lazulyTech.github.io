@@ -21,7 +21,7 @@
 
 - [8615 SAZANKA Robotics](https://sazankarobotics.com/)
     - 2020-2021 \"INFINITE RECHARGE at Home\" 技術メンター
-    - 2021-2022 \"RAPID REACT\" 技術メンターo
+    - 2021-2022 \"RAPID REACT\" 技術メンター
 
     現在は無所属です。
 <!-- - 現在は発足1年目からメンターをしていたSAZANKA Roboticsを方向性の違いにより離れ、無所属です。 -->
