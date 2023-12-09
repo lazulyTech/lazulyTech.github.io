@@ -5,7 +5,7 @@ theme: jekyll-theme-minimal
 title: "Lazuly's Page"
 description: "ロボコンオタクの自己紹介ページ。今は小中学生ロボコンのルールブックを作ってます。"
 logo: /img/icon.png
-google_analystics: G-PN04M09J2X
+google_analytics: G-PN04M09J2X
 
 twitter:
   username: lazuly_tech
