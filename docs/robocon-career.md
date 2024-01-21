@@ -11,7 +11,7 @@
 - 2019 「ちぷ」 5位
 
 ## VEX Robotics Competition
-- 23482M
+- [23482M](https://www.robotevents.com/teams/VRC/23482M)
     - 2019-2020 \"Tower Takeover\" iREX Cup 21位
 
 ## [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
@@ -27,11 +27,12 @@
 <!-- - 現在は発足1年目からメンターをしていたSAZANKA Roboticsを方向性の違いにより離れ、無所属です。 -->
 
 ## [NHK学生ロボコン](https://official-robocon.com/gakusei)
-- [電気通信大学 ロボメカ工房 (NHKロボコン部隊)](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)
+- [電気通信大学ロボメカ工房 NHKロボコン部隊](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)
     - 2021 F3RC2021 1回戦敗退 (ロボット設計)
     - 2022 第2次ビデオ審査不合格 (モータドライバ基板設計)
     - 2023 出場・予選リーグ敗退・トヨタ自動車株式会社賞 (ロボット設計・チームリーダー)  
-        [大会結果](https://official-robocon.com/history/gakusei/about/history/thirtytwo/)・
-        [大学からの記事](https://www.uec.ac.jp/news/prize/2023/20230627_5464.html)
-    - 2024 ロボット設計はせず、1年生の育成や学ロボ機体のアドバイスをしながら、広報・渉外としてチームを支えます。
+        - 大会結果 [Casting Flowers over Angkor Wat│NHK学生ロボコン](https://official-robocon.com/history/gakusei/about/history/thirtytwo/)
+        - 大学からの記事  
+        [ロボメカ工房NHKロボコン部隊が「NHK学生ロボコン2023」で特別賞（トヨタ自動車株式会社賞）を受賞│電気通信大学](https://www.uec.ac.jp/news/prize/2023/20230627_5464.html)
+    <!-- - 2024 ロボット設計はせず、1年生の育成や学ロボ機体のアドバイスをしながら、広報・渉外としてチームを支えます。-->
 

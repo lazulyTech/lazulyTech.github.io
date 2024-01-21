@@ -2,7 +2,7 @@
 
 とにかくロボコンが好きな学生です。
 
-現在は[電通大ロボメカ工房](https://sites.google.com/view/uec-rmf/home)にて学生代表としての仕事や、[NHKロボコン部隊](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)でNHK学生ロボコンに向けての活動の手伝いをしています。
+現在は[電通大ロボメカ工房](https://sites.google.com/view/uec-rmf/home)の学生代表として仕事をしています。来年度はガジェット部隊で自由気ままにものづくりをしたいです。
 
 # Career
 
@@ -17,13 +17,15 @@
 # Works
 
 - NHK学生ロボコン2023のロボットの紹介
-[こちら](https://twitter.com/Lazuly_tech/status/1665911290844573697)
+[画像はこちら](https://twitter.com/Lazuly_tech/status/1665911290844573697)
 
-(後日ブログにまとめる予定です)
+    - [激安Swerve Driveの紹介 〜ロマンチストと弱小校こそ独ステを作れ〜](https://lazuly.hatenablog.com/entry/uecsd2023)  
+        学ロボ2023でぞうロボットに搭載したSwerve Driveの紹介記事です。
 
-<!-- # Hobbies -->
+# Hobbies
 
-<!-- [趣味を語る。](./hobbies.html) -->
+スト6、スマブラ、ウマ娘など。  
+スト6はゴールドモダンキャミィです。
 
 # Contact
 
