@@ -14,7 +14,7 @@
 - [23482M](https://www.robotevents.com/teams/VRC/23482M)
     - 2019-2020 \"Tower Takeover\" iREX Cup 21位
 
-## [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
+## [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) 等
 - [6909 SAKURA Tempesta](https://sakura-tempesta.org/)
     - 2019-2020 \"INFINITE RECHARGE\" (コロナにより大会中止)  
         メンバー (ハード、クラウドファンディング)
@@ -23,7 +23,7 @@
     - 2020-2021 \"INFINITE RECHARGE at Home\" 技術メンター
     - 2021-2022 \"RAPID REACT\" 技術メンター
 
-    現在は無所属です。
+現在はFRC以外のFIRST Programのチームのメンターに入る予定でいます。
 <!-- - 現在は発足1年目からメンターをしていたSAZANKA Roboticsを方向性の違いにより離れ、無所属です。 -->
 
 ## [NHK学生ロボコン](https://official-robocon.com/gakusei)
@@ -36,3 +36,4 @@
         [ロボメカ工房NHKロボコン部隊が「NHK学生ロボコン2023」で特別賞（トヨタ自動車株式会社賞）を受賞│電気通信大学](https://www.uec.ac.jp/news/prize/2023/20230627_5464.html)
     <!-- - 2024 ロボット設計はせず、1年生の育成や学ロボ機体のアドバイスをしながら、広報・渉外としてチームを支えます。-->
 
+関東春ロボコンの運営に入りました
