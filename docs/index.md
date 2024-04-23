@@ -2,7 +2,7 @@
 
 とにかくロボコンが好きな学生です。
 
-現在は[電通大ロボメカ工房](https://sites.google.com/view/uec-rmf/home)の学生代表として仕事をしています。来年度はガジェット部隊で自由気ままにものづくりをしたいです。
+現在は[電通大ロボメカ工房NHKロボコン部隊](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)にて運営の諸々をやっています。
 
 # Career
 
@@ -25,7 +25,7 @@
 # Hobbies
 
 スト6、スマブラ、ウマ娘など。  
-スト6はゴールドモダンキャミィです。
+スト6はプラチナモダンキャミィです。
 
 # Contact
 
