@@ -2,7 +2,7 @@
 
 とにかくロボコンが好きな学生です。
 
-現在は[電通大ロボメカ工房NHKロボコン部隊](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)にて運営の諸々をやっています。
+現在は[関東春ロボコン運営委員会](https://kantouharurobo.com/unei/about-us)にて、これから学生ロボコンの舞台を目指す若人の間接的なサポートをしています。
 
 # Career
 
