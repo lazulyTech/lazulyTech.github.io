@@ -2,7 +2,8 @@
 
 とにかくロボコンが好きな学生です。
 
-現在は[関東春ロボコン運営委員会](https://kantouharurobo.com/unei/about-us)にて、これから学生ロボコンの舞台を目指す若人の間接的なサポートをしています。
+現在は[関東春ロボコン運営委員会](https://kantouharurobo.com/unei/about-us)にて、これから学生ロボコンの舞台を目指す若人の間接的なサポートをしています。  
+中高生ロボコンチーム [SAKURA Tempesta](https://sakura-tempesta.org)の技術メンターもしています。
 
 # Career
 
@@ -21,11 +22,14 @@
 
     - [激安Swerve Driveの紹介 〜ロマンチストと弱小校こそ独ステを作れ〜](https://lazuly.hatenablog.com/entry/uecsd2023)  
         学ロボ2023でぞうロボットに搭載したSwerve Driveの紹介記事です。
+    - [絶対に真似してはいけないベル直の紹介](https://lazuly.hatenablog.com/entry/belt-throwing)  
+        学ロボ2023で設計した射出機構の紹介記事です。
 
 # Hobbies
 
-スト6、スマブラ、ウマ娘など。  
-スト6はプラチナモダンキャミィです。
+スト6、スマブラ、ウマ娘など。
+
+スト6はプラチナCキャミィです
 
 # Contact
 
@@ -34,3 +38,4 @@
 |X(Twitter)|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています|
 |はてなブログ|[LINK](https://lazuly.hatenablog.com)|気まぐれに書きます|
 |Facebook|[LINK](https://www.facebook.com/profile.php?id=100028977140855)|これからほどほどに使いたい|
+
