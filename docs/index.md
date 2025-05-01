@@ -31,13 +31,13 @@
 スト6、スマブラ、など。
 
 スト6はダイヤJP(クラシック)です。  
-キャミィ、キンバリー等キャラコロしてましたが、今後はJP1本でいかせていただきます。
+ダイヤ4で絶賛スタック中。自作アケコン作りに逃げています。
 
 # Contact
 
 |サービス|アカウント|備考|
 |:---|:---|:---|
-|X(Twitter)|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています|
+|X(Twitter)|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています<br>DMはスパムがやばすぎるので認証アカウントまたはFF限定にしています |
 |はてなブログ|[LINK](https://lazuly.hatenablog.com)|気まぐれに書きます|
 |Facebook|[LINK](https://www.facebook.com/profile.php?id=100028977140855)|これからほどほどに使いたい|
 

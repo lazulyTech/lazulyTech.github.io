@@ -18,13 +18,11 @@
 - [6909 SAKURA Tempesta](https://sakura-tempesta.org/)
     - 2019-2020 \"INFINITE RECHARGE\" (コロナにより大会中止)  
         メンバー (ハード、クラウドファンディング)
+    - 2024-2025 \"REEFSCAPE\" 技術メンター(ハード)
 
 - [8615 SAZANKA Robotics](https://sazankarobotics.com/)
     - 2020-2021 \"INFINITE RECHARGE at Home\" 技術メンター
     - 2021-2022 \"RAPID REACT\" 技術メンター
-
-<!-- 現在はFRC以外のFIRST Programのチームのメンターに入る予定でいます。 -->
-<!-- - 現在は発足1年目からメンターをしていたSAZANKA Roboticsを方向性の違いにより離れ、無所属です。 -->
 
 ## [NHK学生ロボコン](https://official-robocon.com/gakusei)
 - [電気通信大学ロボメカ工房 NHKロボコン部隊](https://sites.google.com/view/uec-rmf/home/butai/nhk-team)
@@ -38,3 +36,4 @@
     - 2024 渉外・広報
 
 最近関東春ロボコンの運営に入りました
+
