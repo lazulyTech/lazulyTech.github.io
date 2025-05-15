@@ -28,10 +28,10 @@
 
 # Hobbies
 
-スト6、スマブラ、など。
+スト6、ものづくりなど。
 
-スト6はダイヤJP(クラシック)です。  
-ダイヤ4で絶賛スタック中。自作アケコン作りに逃げています。
+スト6はマスターJP(クラシック)です。  
+自作アケコン作りに逃げていたら、突然調子がよくなって初マスターになりました。
 
 # Contact
 
@@ -40,4 +40,5 @@
 |X(Twitter)|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています<br>DMはスパムがやばすぎるので認証アカウントまたはFF限定にしています |
 |はてなブログ|[LINK](https://lazuly.hatenablog.com)|気まぐれに書きます|
 |Facebook|[LINK](https://www.facebook.com/profile.php?id=100028977140855)|これからほどほどに使いたい|
+
 
