@@ -3,8 +3,8 @@ plugins:
 theme: jekyll-theme-minimal
 
 title: "Lazuly's Page"
-description: "ロボコンオタクの自己紹介ページ。学ロボ引退しました。"
-logo: /img/icon.png
+description: "ロボコンオタクのポートフォリオページ。"
+logo: /img/icon_nhk2023.png
 google_analytics: G-PN04M09J2X
 
 twitter:
