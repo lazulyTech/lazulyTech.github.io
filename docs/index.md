@@ -11,10 +11,13 @@
 
 2021 電気通信大学 情報理工学域 II類計測・制御システムプログラム  
 2025/04~ [金森研究室](http://www.rmc.mce.uec.ac.jp/) 所属  
+(2026/03 卒業予定)  
 
 # Robotics Competition Career
 
 [ロボコン歴はこちら](./robocon-career.html)
+
+# Skills
 
 # Works
 
@@ -28,16 +31,13 @@
 
 # Hobbies
 
-スト6、ものづくりなど。
-
-スト6はマスターJP(クラシック)です。  
-自作アケコン作りに逃げていたら、突然調子がよくなって初マスターになりました。
+格ゲー、ものづくりなど。
 
 # Contact
 
 |サービス|アカウント|備考|
 |:---|:---|:---|
-|X(Twitter)|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています<br>DMはスパムがやばすぎるので認証アカウントまたはFF限定にしています |
+|X(Twitter)|[@Lazuly_tech](https://twitter.com/lazuly_tech)|ロボコン関連を中心に交流・発信しています |
 |はてなブログ|[LINK](https://lazuly.hatenablog.com)|気まぐれに書きます|
 |Facebook|[LINK](https://www.facebook.com/profile.php?id=100028977140855)|これからほどほどに使いたい|
 
