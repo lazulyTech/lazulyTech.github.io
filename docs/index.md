@@ -11,13 +11,14 @@
 
 2021 電気通信大学 情報理工学域 II類計測・制御システムプログラム  
 2025/04~ [金森研究室](http://www.rmc.mce.uec.ac.jp/) 所属  
-(2026/03 卒業予定)  
+(2026/03 卒業見込)  
+(2026/04 就職見込)
 
 # Robotics Competition Career
 
 [ロボコン歴はこちら](./robocon-career.html)
 
-# Skills
+<!-- # Skills -->
 
 # Works
 
@@ -25,13 +26,16 @@
 [画像はこちら](https://twitter.com/Lazuly_tech/status/1665911290844573697)
 
     - [激安Swerve Driveの紹介 〜ロマンチストと弱小校こそ独ステを作れ〜](https://lazuly.hatenablog.com/entry/uecsd2023)  
-        学ロボ2023でぞうロボットに搭載したSwerve Driveの紹介記事です。
+        学ロボ2023でぞうロボットに搭載したSwerve Driveの紹介記事です。  
+        (就活でも実物を持っていきました。**第一印象としては**有効です。)
     - [絶対に真似してはいけないベル直の紹介](https://lazuly.hatenablog.com/entry/belt-throwing)  
         学ロボ2023で設計した射出機構の紹介記事です。
 
+<img width="45%" src="./img/cad_23ER.png"> <img width="45%" src="./img/cad_23RR.png">
+
 # Hobbies
 
-格ゲー、ものづくりなど。
+ものづくり、ロボコン観戦、格闘ゲームなど。
 
 # Contact
 
